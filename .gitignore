@@ -1,3 +1,5 @@
 env
 fraudTest.csv
 fraudTrain.csv
+
+.DS_Store
