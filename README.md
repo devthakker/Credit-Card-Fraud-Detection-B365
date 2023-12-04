@@ -1,6 +1,18 @@
-# B365-Course-Project - Classifications For The Fraudulent Credit Card Charges
+# B365-Course-Project - Classifications For The Fraudulent Credit Card Charges - Group 7
 
-This is the README file for the B365-Course-Project repository on Classifications For The Fraudulent Credit Card Charges.
+This is the README file for the B365-Course-Project repository on Classifications For The Fraudulent Credit Card Charges. Group 7
+
+Created by Devin Thakker, Ahmad Aldhaheri, and Yash Gollapudi
+
+## Folder Structure
+
+The repository is structured as follows:
+
+- `Data` - Contains the data used for the project
+- `Models` - Contains the models created for the project
+- `Notebooks` - Contains the Jupyter Notebook file for the project
+- `README.md` - The README file for the project
+- `requirements.txt` - The file containing the required packages and libraries for the project
 
 ## Setting up the Virtual Environment (Optional)
 
@@ -46,11 +58,11 @@ After making sure all the dependencies are installed whether you decide to use a
 
 1. Open the Models Folder 
 
-2. In the folder you will find 4 different models, each with their own respective jupyter notebook.
+2. In the folder you will find 4 files, each of which are the models we created for this project. 
 
-3. Open the notebook you wish to run and run all the cells.
+3. To run the models, open the files in a Python IDE and run the code.
 
-4. The notebook will output the accuracy of the model and the confusion matrix.
+4. In the Notebooks Folder, you will find the Jupyter Notebook file that contains the code for the models as well.
 
 Note: The KNN model takes a while to run, so be patient. Also the Decision Tree model also creates a txt file of the tree.
 
