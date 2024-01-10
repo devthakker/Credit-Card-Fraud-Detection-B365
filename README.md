@@ -1,4 +1,4 @@
-# B365-Course-Project - Classifications For The Fraudulent Credit Card Charges - Group 7
+# Classifications For The Fraudulent Credit Card Charges - B365
 
 This is the README file for the B365-Course-Project repository on Classifications For The Fraudulent Credit Card Charges. Group 7
 
